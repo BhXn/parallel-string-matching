@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/Users/orion/Documents/code/parallel_project/code/build",
+  "command": "/usr/bin/c++  -I/Users/orion/Documents/code/parallel_project/code/include -O3 -std=gnu++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/myapp.dir/main.cpp.o -c /Users/orion/Documents/code/parallel_project/code/main.cpp",
+  "file": "/Users/orion/Documents/code/parallel_project/code/main.cpp",
+  "output": "CMakeFiles/myapp.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/orion/Documents/code/parallel_project/code/build",
+  "command": "/usr/bin/c++  -I/Users/orion/Documents/code/parallel_project/code/include -O3 -std=gnu++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/myapp.dir/src/doc_search.cpp.o -c /Users/orion/Documents/code/parallel_project/code/src/doc_search.cpp",
+  "file": "/Users/orion/Documents/code/parallel_project/code/src/doc_search.cpp",
+  "output": "CMakeFiles/myapp.dir/src/doc_search.cpp.o"
+},
+{
+  "directory": "/Users/orion/Documents/code/parallel_project/code/build",
+  "command": "/usr/bin/c++  -I/Users/orion/Documents/code/parallel_project/code/include -O3 -std=gnu++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/myapp.dir/src/matcher.cpp.o -c /Users/orion/Documents/code/parallel_project/code/src/matcher.cpp",
+  "file": "/Users/orion/Documents/code/parallel_project/code/src/matcher.cpp",
+  "output": "CMakeFiles/myapp.dir/src/matcher.cpp.o"
+},
+{
+  "directory": "/Users/orion/Documents/code/parallel_project/code/build",
+  "command": "/usr/bin/c++  -I/Users/orion/Documents/code/parallel_project/code/include -O3 -std=gnu++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/myapp.dir/src/utils.cpp.o -c /Users/orion/Documents/code/parallel_project/code/src/utils.cpp",
+  "file": "/Users/orion/Documents/code/parallel_project/code/src/utils.cpp",
+  "output": "CMakeFiles/myapp.dir/src/utils.cpp.o"
+},
+{
+  "directory": "/Users/orion/Documents/code/parallel_project/code/build",
+  "command": "/usr/bin/c++  -I/Users/orion/Documents/code/parallel_project/code/include -O3 -std=gnu++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/myapp.dir/src/virus_search.cpp.o -c /Users/orion/Documents/code/parallel_project/code/src/virus_search.cpp",
+  "file": "/Users/orion/Documents/code/parallel_project/code/src/virus_search.cpp",
+  "output": "CMakeFiles/myapp.dir/src/virus_search.cpp.o"
+},
+{
+  "directory": "/Users/orion/Documents/code/parallel_project/code/build",
+  "command": "/usr/bin/c++  -I/Users/orion/Documents/code/parallel_project/code/include -O3 -std=gnu++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/test_performance.dir/src/doc_search.cpp.o -c /Users/orion/Documents/code/parallel_project/code/src/doc_search.cpp",
+  "file": "/Users/orion/Documents/code/parallel_project/code/src/doc_search.cpp",
+  "output": "CMakeFiles/test_performance.dir/src/doc_search.cpp.o"
+},
+{
+  "directory": "/Users/orion/Documents/code/parallel_project/code/build",
+  "command": "/usr/bin/c++  -I/Users/orion/Documents/code/parallel_project/code/include -O3 -std=gnu++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/test_performance.dir/src/matcher.cpp.o -c /Users/orion/Documents/code/parallel_project/code/src/matcher.cpp",
+  "file": "/Users/orion/Documents/code/parallel_project/code/src/matcher.cpp",
+  "output": "CMakeFiles/test_performance.dir/src/matcher.cpp.o"
+},
+{
+  "directory": "/Users/orion/Documents/code/parallel_project/code/build",
+  "command": "/usr/bin/c++  -I/Users/orion/Documents/code/parallel_project/code/include -O3 -std=gnu++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/test_performance.dir/src/utils.cpp.o -c /Users/orion/Documents/code/parallel_project/code/src/utils.cpp",
+  "file": "/Users/orion/Documents/code/parallel_project/code/src/utils.cpp",
+  "output": "CMakeFiles/test_performance.dir/src/utils.cpp.o"
+},
+{
+  "directory": "/Users/orion/Documents/code/parallel_project/code/build",
+  "command": "/usr/bin/c++  -I/Users/orion/Documents/code/parallel_project/code/include -O3 -std=gnu++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/test_performance.dir/src/virus_search.cpp.o -c /Users/orion/Documents/code/parallel_project/code/src/virus_search.cpp",
+  "file": "/Users/orion/Documents/code/parallel_project/code/src/virus_search.cpp",
+  "output": "CMakeFiles/test_performance.dir/src/virus_search.cpp.o"
+},
+{
+  "directory": "/Users/orion/Documents/code/parallel_project/code/build",
+  "command": "/usr/bin/c++  -I/Users/orion/Documents/code/parallel_project/code/include -O3 -std=gnu++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/test_performance.dir/test/test_performance.cpp.o -c /Users/orion/Documents/code/parallel_project/code/test/test_performance.cpp",
+  "file": "/Users/orion/Documents/code/parallel_project/code/test/test_performance.cpp",
+  "output": "CMakeFiles/test_performance.dir/test/test_performance.cpp.o"
+}
+]

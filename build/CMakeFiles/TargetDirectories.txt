@@ -1,0 +1,4 @@
+/Users/orion/Documents/code/parallel_project/code/build/CMakeFiles/myapp.dir
+/Users/orion/Documents/code/parallel_project/code/build/CMakeFiles/test_performance.dir
+/Users/orion/Documents/code/parallel_project/code/build/CMakeFiles/edit_cache.dir
+/Users/orion/Documents/code/parallel_project/code/build/CMakeFiles/rebuild_cache.dir
